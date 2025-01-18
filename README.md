@@ -1,8 +1,8 @@
 # Mentorship Platform
 
 ## Deployed URLs
-- **Frontend**:[ [Your Deployed Frontend Link Here](#)](https://assignment-mentorship.onrender.com)
-- **Backend**:[ [Your Deployed Backend Link Here](#)](https://assignment-h1j8.onrender.com)
+- **Frontend**: https://assignment-mentorship.onrender.com
+- **Backend**: https://assignment-h1j8.onrender.com
 
 ## Overview
 The Mentorship Platform connects mentors and mentees, allowing users to:
