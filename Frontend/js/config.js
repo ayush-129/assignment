@@ -1,2 +1,2 @@
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://assignment-h1j8.onrender.com";
 export { BACKEND_URL };
